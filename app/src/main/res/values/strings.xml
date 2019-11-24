@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">Silinen fotoğrafları geri getirme</string>
+
+    <string name="please_wait">Lütfen bekle...</string>
+
+    <string name="navigation_drawer_open">Gezinme çekmecesini aç</string>
+    <string name="navigation_drawer_close">Gezinme çekmecesini kapat</string>
+
+    <string name="number_text">Algılanan resimler:</string>
+    <string name="image">Fotoğraf(s)</string>
+    <string name="no_image">Resim bulunamadı!</string>
+
+    <string name="no_video">Video bulunamadı!</string>
+    <string name="number_video">Algılanan videolar:</string>
+
+    <string name="video">Videolar(s)</string>
+    <string name="back">geri</string>
+
+    <string name="select_all">Hepsini seç</string>
+
+    <string name="deselect_all">Hiçbirini seçme</string>
+
+    <string name="delete_toast">dosya silindi</string>
+
+    <string name="restore_toast">Dosyayı %1$s geri yükle Kalan %2$s dosyalar</string>
+
+    <string name="all">Herşey</string>
+    <string name="deleted">silindi</string>
+
+    <string name="no_all_contacts">Kişiler bulunamadı.</string>
+
+    <string name="contact_not_restore">"Kişi başarıyla geri yüklenemedi"</string>
+    <string name="contact_restore_success">Kişi başarıyla geri yüklendi</string>
+
+    <string name="no_deleted_contacts">Silinen kişiler bulunamadı.</string>
+
+    <string name="allcontact_restore_success">Tüm kişiler başarıyla geri yüklendi</string>
+
+    <string name="allcontact_not_restore">"Kişiler başarıyla geri yüklenemedi"</string>
+
+</resources>

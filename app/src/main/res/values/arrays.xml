@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+
+        <item>Uygulamayı derecelendir</item>
+        <item>Uygulamayı Paylaş</item>
+        <item>Bizimle iletişime geçin</item>
+        <item>Gizlilik Politikası</item>
+
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+
+        <item>@drawable/rateus</item>
+        <item>@drawable/share</item>
+        <item>@drawable/contactus</item>
+        <item>@drawable/privecy</item>
+
+    </array>
+
+</resources>
